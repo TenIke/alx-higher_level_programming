@@ -6,7 +6,7 @@ class Rectangle:
     """Initialize a rectangle"""
 
     def __init___(self, width=0, height=0):
-        """ New rectangle
+        """New rectangle
 
         Args:
             Width = type int and it's the width of it
