@@ -1,9 +1,9 @@
 #!/usr/bin/python3
-""" Define a class rectangle """
+"""Define a class rectangle"""
 
 
 class Rectangle:
-    """ Initialize a rectangle """
+    """Initialize a rectangle"""
 
     def __init___(self, width=0, height=0):
         """ New rectangle
@@ -17,7 +17,7 @@ class Rectangle:
 
         @property
         def width(self):
-            """ Get the value of the width """
+            """Get the value of the width"""
             retrun self.__width
 
         @width.setter
