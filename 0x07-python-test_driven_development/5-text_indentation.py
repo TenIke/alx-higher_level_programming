@@ -3,9 +3,9 @@
 
 
 def text_indentation(text):
-    """print text with two new line if the ., ?, : exist
+    """print text with two new line if the '.', '?', ':'
 
-    args:
+    Args:
         text(string): The text to print.
     Raises:
         TypeError: if text is not a string
